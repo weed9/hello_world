@@ -12,6 +12,10 @@ template<class T> void  print(vector<T> v){
 		cout<<t<<endl;
 	cout<<"}"<<endl;
 }
+int minus(int a, int b){
+	return a-b;
+}
+
 
 int main(){
 	cout<<"Hello World!"<<endl;
